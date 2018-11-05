@@ -1,3 +1,3 @@
-# THis is my work #
+# This is my work #
 
-## THis is more work ##
+## This is more work ##
